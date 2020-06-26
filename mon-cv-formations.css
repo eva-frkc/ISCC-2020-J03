@@ -1,0 +1,38 @@
+.ligne1{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: lightsalmon;
+}
+
+.photo{
+    width: 50%;
+}
+
+.titre{
+    width: 50%;
+}
+
+nav{
+    background-color: white;
+    text-align: center;
+}
+
+body{
+    background-color: white;
+}
+
+.principal{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: antiquewhite;
+}
+
+ul{
+    margin: 1%;
+    background-color: white;
+}
+
+footer{
+    background-color: lightsalmon;
+    padding: 2%;
+}
